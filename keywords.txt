@@ -1,0 +1,7 @@
+liveness
+EEG
+instrument
+skills
+awareness
+context
+musicianship
