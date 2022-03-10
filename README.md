@@ -3,8 +3,8 @@
 
 # Steps
 
-## Open commandline and navigate to folder
+### Open commandline and navigate to folder using Cd.
 
-## pip install -r requirements.txt
+### pip install -r requirements.txt
 
-## python i-prompt.py --keywords keywords2.txt --abstracts nime_abstracts.json
+### python i-prompt.py --keywords keywords2.txt --abstracts nime_abstracts.json
