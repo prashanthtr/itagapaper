@@ -10,4 +10,6 @@ with open('selected_papers.txt', 'w') as f:
         if len(paper["user_relevance"]) > 0 and sum(paper["user_relevance"]) >= 1:
             f.write(str(paper["yearno"]) + " \n" + paper["authornames"] + " : " + paper["title"] + " : \n " + paper["abstract"] + " \n")
 
-
+print("\n")
+print("Please open the selected_papers.txt file available in the folder")
+print("\n")

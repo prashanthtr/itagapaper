@@ -63,17 +63,23 @@ def get_papers(keywords, abstracts):
         if count >= 3:
             match_results.append(papers)
 
-    print(" Number of results ", len(match_results) )
+    print(" \n ")
+    print(len(match_results), " matching papers " )
 
     for paper in match_results:
-        
+
+        print(" \n ")
+
         print(textwrap.fill("Title : " + paper["title"], 100))
+
+        print(" \n ")
         print(textwrap.fill("Authornames : " + paper["authornames"], 100))
 
-        print("")
+        print(" \n ")
         print("Abstract : " )
         print(textwrap.fill(paper["abstract"], 100))
-        print("Check if this is relevant, 1 for yes, 0 for no")
+        print(" \n ")
+        print("Please label if this is relevant, 1 for yes, 0 for no")
         relevant = int(input())
 
         while relevant > 1 :
