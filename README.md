@@ -17,6 +17,8 @@ Please execute the steps in following for effective use.
 
 ## Navigate to github folder using Cd.
 
+	>> cd pathtofile/itagapaper/
+
 ## Install dependencies
 	
 	>> pip install -r requirements.txt
