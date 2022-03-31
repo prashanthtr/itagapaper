@@ -1,0 +1,5 @@
+2021 
+Enrique Tomás, Thomas Gorbach, Hilda Tellioğlu, and Martin Kaltenbrunner.  : . Embodied Gestures: Sculpting Energy-Motion Models into Musical Interfaces. Proceedings of the International Conference on New Interfaces for Musical Expression.  : 
+ 
+    In this paper we discuss the beneficial aspects of incorporating energy-motion models as a design pattern in musical interface design. These models can be understood as archetypes of motion trajectories which are commonly applied in the analysis and composition of acousmatic music. With the aim of exploring a new possible paradigm for interface design, our research builds on the parallel investigation of embodied music cognition theory and the praxis of acousmatic music. After having run a large study for understanding a listener’s spontaneous rendering of form and movement, we built a number of digital instruments especially designed to emphasise a particular energy-motion profile. The evaluation through composition and performance indicates that this design paradigm can foster musical inventiveness and expression in the processes of composition and performance of gestural electronic music.
+   

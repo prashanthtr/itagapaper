@@ -9,7 +9,7 @@ The program works on keyword based search. The search results can be modified Wi
 
 Every paper, the user queries and tags, is written back to the database.
 
-The selected files are separately stored in file (selected_papers.txt) for later viewing.
+The selected files are separately stored in file (selected_papers folders) for later viewing.
 
 # Steps
 
